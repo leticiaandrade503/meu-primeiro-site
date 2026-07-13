@@ -1,0 +1,172 @@
+body {
+    background-color: rgb(198, 187, 250);
+}
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: rgb(0, 0, 133);
+    text-align: center;
+    font-size: 40px;
+}
+p {
+    color: #000000;
+    font-size: 18px;
+}
+button {
+    background-color: black;
+    color: aliceblue;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+
+button:hover {
+    background-color: rgb(148, 3, 3);
+}
+.titulo {
+    color: rgb(163, 219, 7);
+    text-align: center;
+}
+#mensagem {
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+}
+body {
+    background-color: #e8f4ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+h1 {
+    color: #000000;
+}
+
+
+p {
+    color: #000000;
+    font-size: 20px;
+}
+
+
+button {
+    background-color: #0077cc;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+button:hover {
+    background-color: #005fa3;
+}
+.menu {
+    background-color: #005fa3;
+    padding: 15px;
+    text-align: center;
+}
+.menu a {
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    margin: 5px;
+    border-radius: 8px;
+    display: inline-block;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+
+body {
+    background-color: rgb(198, 187, 250);
+}
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: rgb(0, 0, 133);
+    text-align: center;
+    font-size: 40px;
+}
+p {
+    color: #000000;
+    font-size: 18px;
+}
+button {
+    background-color: black;
+    color: aliceblue;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+
+button:hover {
+    background-color: blueviolet;
+}
+.titulo {
+    color: blueviolet;
+    text-align: center;
+}
+#mensagem {
+    color: purple;
+    font-weight: bold;
+}
+body {
+    background-color: #e8f4ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+h1 {
+    color: #0077cc;
+}
+
+
+p {
+    color: #0077cc;
+    font-size: 20px;
+}
+
+
+button {
+    background-color: #0077cc;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+button:hover {
+    background-color: #005fa3;
+}
+.menu {
+    background-color: #005fa3;
+    padding: 15px;
+    text-align: center;
+}
+.menu a {
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    margin: 5px;
+    border-radius: 8px;
+    display: inline-block;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    transition: 0.3s;
+}
